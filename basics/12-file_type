@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -f /tpm/iamafile
+ls -f /basiscs/tpm/iamafile
