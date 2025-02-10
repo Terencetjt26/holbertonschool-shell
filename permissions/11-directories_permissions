@@ -1,2 +1,2 @@
 #!/bin/bash
-frind . -type d -exec chmod a+x [] \;
+chmod -R +x */
